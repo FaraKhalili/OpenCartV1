@@ -16,7 +16,7 @@ public class TC_003_LoginDTT extends BaseClass {
 
 	// Data is invalid - login success - test fail - logout
 	// Data is invalid -login failed - test pass
-	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class) // getting data provider from another
+	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class , groups = "Datadriven") // getting data provider from another
 																				// class
 	public void verify_loginDTT(String email, String pwd, String exp) throws InterruptedException {
 

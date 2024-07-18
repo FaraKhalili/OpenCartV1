@@ -57,3 +57,67 @@
 2024-07-18 11:26:41 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
 2024-07-18 11:26:41 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
 2024-07-18 11:26:58 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 12:18:07 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\grouping.xml
+
+2024-07-18 12:18:12 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 12:18:12 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 12:18:13 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 12:18:13 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 12:18:14 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 12:18:14 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 12:18:19 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 12:18:21 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 14:10:56 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\grouping.xml
+
+2024-07-18 14:11:01 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 14:11:01 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 14:11:02 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 14:11:02 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 14:11:04 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 14:11:04 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 14:11:08 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 14:11:10 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 14:13:33 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\grouping.xml
+
+2024-07-18 14:13:38 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 14:13:38 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 14:13:39 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 14:13:39 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 14:13:40 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 14:13:40 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 14:13:45 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 14:13:47 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 14:21:52 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\grouping.xml
+
+2024-07-18 14:21:58 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 14:21:58 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 14:21:59 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 14:21:59 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 14:22:01 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 14:22:01 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 14:22:05 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 14:22:07 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 14:28:09 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\grouping.xml
+
+2024-07-18 14:28:15 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 14:28:15 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 14:28:15 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 14:28:15 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 14:28:17 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 14:28:17 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 14:28:22 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 14:34:36 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\grouping.xml
+
+2024-07-18 14:34:42 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 14:34:42 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 14:34:43 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 14:34:43 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 14:34:44 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 14:34:45 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 14:34:49 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
