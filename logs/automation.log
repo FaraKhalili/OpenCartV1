@@ -1,147 +1,59 @@
-2024-07-17 13:48:54 INFO  Utils:112 - [TestNG] Running:
+2024-07-18 11:08:08 INFO  Utils:112 - [TestNG] Running:
   D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
 
-2024-07-17 13:49:01 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:49:01 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 13:49:02 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 13:49:02 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 13:49:04 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 13:49:04 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 13:50:00 INFO  Utils:112 - [TestNG] Running:
+2024-07-18 11:08:15 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:08:16 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:08:16 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:08:17 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:08:17 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:10:58 INFO  Utils:112 - [TestNG] Running:
   D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
 
-2024-07-17 13:50:20 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:50:20 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
-2024-07-17 13:50:50 INFO  Utils:112 - [TestNG] Running:
+2024-07-18 11:11:05 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:12:23 INFO  Utils:112 - [TestNG] Running:
   D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
 
-2024-07-17 13:50:54 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:50:54 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
-2024-07-17 13:56:10 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\crossbrowsertesting.xml
-
-2024-07-17 13:56:16 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:56:16 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 13:56:16 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 13:56:16 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 13:56:18 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 13:56:18 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 13:56:23 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:56:24 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 13:56:24 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 13:56:24 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 13:56:26 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 13:56:26 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 13:56:29 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:56:29 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
-2024-07-17 13:58:44 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\crossbrowsertesting.xml
-
-2024-07-17 13:58:49 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:58:49 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 13:58:50 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 13:58:50 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 13:58:51 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 13:58:51 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 13:58:58 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:58:58 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 13:58:59 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 13:58:59 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 13:59:00 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 13:59:00 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 13:59:03 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 13:59:03 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
-2024-07-17 14:01:04 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\crossbrowsertesting.xml
-
-2024-07-17 14:01:07 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 14:01:07 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
-2024-07-17 14:01:08 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 14:01:09 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 14:01:09 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 14:01:09 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 14:01:10 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 14:01:10 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 14:01:11 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 14:01:11 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 14:01:11 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 14:01:11 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 14:01:13 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 14:01:13 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 14:03:11 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\crossbrowsertesting.xml
-
-2024-07-17 14:03:16 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 14:03:16 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 14:03:17 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 14:03:17 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 14:03:17 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 14:03:17 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 14:03:18 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 14:03:19 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 14:03:19 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 14:03:20 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 14:03:20 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 18:27:42 INFO  Utils:112 - [TestNG] Running:
+2024-07-18 11:12:30 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:12:51 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:12:51 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:13:01 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:13:04 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:13:11 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:13:11 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:13:54 INFO  Utils:112 - [TestNG] Running:
   D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
 
-2024-07-17 18:28:44 INFO  Utils:112 - [TestNG] Running:
+2024-07-18 11:14:00 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:14:03 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:14:03 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:14:06 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:14:09 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:14:17 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:14:17 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:18:50 INFO  Utils:112 - [TestNG] Running:
   D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
 
-2024-07-17 18:30:18 INFO  Utils:112 - [TestNG] Running:
+2024-07-18 11:18:56 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:18:59 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:18:59 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:19:01 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:19:01 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:19:04 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:19:15 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:19:15 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:19:18 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:25:47 INFO  Utils:112 - [TestNG] Running:
   D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
 
-2024-07-17 18:32:01 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:32:17 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:36:59 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:40:40 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:41:15 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:41:48 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:43:26 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:47:56 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 18:48:42 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
-2024-07-17 18:48:50 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
-2024-07-17 18:48:52 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
-2024-07-17 18:48:52 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
-2024-07-17 18:48:53 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
-2024-07-17 18:48:53 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
-2024-07-17 22:16:55 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 22:16:59 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
-2024-07-17 22:17:58 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 22:18:02 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
-2024-07-17 22:18:53 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 22:19:39 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
-2024-07-17 22:23:32 INFO  Utils:112 - [TestNG] Running:
-  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
-
-2024-07-17 22:23:36 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
-2024-07-17 22:23:37 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 11:25:53 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:26:01 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:26:01 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:26:08 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:26:08 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:26:16 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:26:16 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:26:33 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:26:33 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:26:41 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
+2024-07-18 11:26:41 INFO  TC_003_LoginDTT:23 - **** starting TC_003_LoginDDT ****
+2024-07-18 11:26:58 INFO  TC_003_LoginDTT:62 - **** Finished TC_003_LoginDDT ****
