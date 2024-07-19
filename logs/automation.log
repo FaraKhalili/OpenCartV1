@@ -121,3 +121,52 @@
 2024-07-18 14:34:44 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
 2024-07-18 14:34:45 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
 2024-07-18 14:34:49 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 21:42:07 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
+
+2024-07-18 21:42:32 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 21:42:34 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 21:43:42 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
+
+2024-07-18 21:44:15 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:44:15 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 21:44:18 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 21:44:20 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 21:44:22 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 21:44:22 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 21:44:27 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 21:44:29 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 21:46:55 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\master.xml
+
+2024-07-18 21:47:23 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:47:23 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 21:47:24 INFO  TC_001_AccountRegistrationTest:22 - Clicked on MyAccount Link 
+2024-07-18 21:47:24 INFO  TC_001_AccountRegistrationTest:26 - Providing customer details... 
+2024-07-18 21:47:27 INFO  TC_001_AccountRegistrationTest:40 - Validating expected message.. 
+2024-07-18 21:47:27 INFO  TC_001_AccountRegistrationTest:50 - ****Finished TC_001_AccountRegistrationTest ****
+2024-07-18 21:47:59 INFO  TC_002_LoginTest:16 - ****Starting TC_002_LoginTest ****
+2024-07-18 21:48:02 INFO  TC_002_LoginTest:40 - ****** Finished TC_002_LoginTest *****
+2024-07-18 21:52:50 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\crossbrowsertesting.xml
+
+2024-07-18 21:52:51 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:52:51 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
+2024-07-18 21:52:57 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:52:57 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:52:57 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 21:52:57 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 21:53:07 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
+2024-07-18 21:53:17 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
+2024-07-18 21:59:09 INFO  Utils:112 - [TestNG] Running:
+  D:\EclipseWorkspace\SeleniumWebdriver\OpenCartV1\crossbrowsertesting.xml
+
+2024-07-18 21:59:10 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:59:10 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
+2024-07-18 21:59:15 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:59:15 INFO  TC_001_AccountRegistrationTest:14 - ****Starting TC_001_AccountRegistrationTest ****
+2024-07-18 21:59:15 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 21:59:15 INFO  TC_001_AccountRegistrationTest:19 - Clicked on MyAccount Link 
+2024-07-18 21:59:25 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
+2024-07-18 21:59:36 ERROR TC_001_AccountRegistrationTest:45 - Test failed...
