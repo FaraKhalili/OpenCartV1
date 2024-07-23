@@ -32,16 +32,16 @@ public class TC_003_LoginDTT extends BaseClass {
 			LoginPage lp = new LoginPage(driver);
 			lp.setEmailAddress(email);
 			lp.setPassword(pwd);
-			lp.ClickLogin();
+			lp.clickLogin();
 
 			// MyAccount
 			MyAccountPage macc = new MyAccountPage(driver);
-			boolean targetPage = macc.isMyaccountPageExists();
+			boolean targetPage = macc.isMyAccountPageExists();
 
 			if (exp.equalsIgnoreCase("Valid")) {
 				if (targetPage == true) {
 					Assert.assertTrue(true);
-					macc.ClickLogout();
+					macc.clickLogout();
 				} else {
 					Assert.assertTrue(false);
 				}
@@ -49,7 +49,7 @@ public class TC_003_LoginDTT extends BaseClass {
 			}
 			if (exp.equalsIgnoreCase("Invalid")) {
 				if (targetPage == true) {
-					macc.ClickLogout();
+					macc.clickLogout();
 					Assert.assertTrue(false);
 				} else {
 					Assert.assertTrue(true);

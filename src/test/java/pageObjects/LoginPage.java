@@ -30,7 +30,7 @@ public class LoginPage extends BasePage{
 		txtEmailAddress.sendKeys(email);
 	}
 	
-	public void ClickLogin() 
+	public void clickLogin() 
 	{
 		btnLogin.click();
 	}
